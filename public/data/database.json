@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "ad2",
+      "username": "pablo",
+      "lastName": "ruiz",
+      "email": "pablo@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 1716312475986,
+      "username": "el senior",
+      "lastName": "Montoya Ospina",
+      "email": "david@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "b92e",
+      "username": "frozono",
+      "lastName": "rodriguez",
+      "email": "juanpablo@gmail.com",
+      "password": "456"
+    },
+    {
+      "id": "e05a",
+      "username": "a",
+      "lastName": "combita",
+      "email": "usuario1@gmail.com",
+      "password": "456"
+    }
+  ]
+}
